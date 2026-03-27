@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.24+commit.e11b9ed9"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "sendEther",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Contracts/CallContract.sol": "CallContract"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Contracts/CallContract.sol": {
+			"keccak256": "0x276283b77c5ccea83d1b79a23555c3f4e7a94ae3e70ed08094229e339313f245",
+			"license": "GPL-3.0-only",
+			"urls": [
+				"bzz-raw://220c375df4e5b6d09f7282d13755749d26b995c9c13fd6397541ffc64f03662a",
+				"dweb:/ipfs/QmQzwgb43uYJQHpHUB7YPUeYMWaV6t3cQ3gzg9yavZcne6"
+			]
+		}
+	},
+	"version": 1
+}

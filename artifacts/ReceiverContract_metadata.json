@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.24+commit.e11b9ed9"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "sendEther",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Contracts/ReceiverContract.sol": "ReceiverContract"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Contracts/ReceiverContract.sol": {
+			"keccak256": "0x1724fdc8c670db3288fbffdcc4e5284caa777edf80389a080032b2dcaddd9508",
+			"license": "GPL-3.0-only",
+			"urls": [
+				"bzz-raw://31818c3fcd33cb015b895d16079bd6be7b07423266da563f7e1836aaff499ba9",
+				"dweb:/ipfs/QmUc2Y5MyENpefuv6rZ8iPqMV377Qg6HsuUwr6qFWUXhJu"
+			]
+		}
+	},
+	"version": 1
+}
