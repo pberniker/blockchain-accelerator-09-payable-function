@@ -16,5 +16,5 @@ contract PayableContract {
     function sendEther() public payable {
     }
 
-    // No se puede retirar => Vulnerabilidad
+    // No se puede retirar => Vulnerabilidad critica
 }
